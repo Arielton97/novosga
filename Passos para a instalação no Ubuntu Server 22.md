@@ -1,4 +1,4 @@
-Passos para instalação no Ubuntu Server 22
+Passos para instalação do novoSGA 1.5 no Ubuntu Server 22
 https://youtu.be/W-JpaKJaOqE?list=TLPQMTAwOTIwMjMjHRXW5ueQ1w
 
 Fórum de discussão
