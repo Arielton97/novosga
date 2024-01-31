@@ -93,6 +93,7 @@ http://ipdamáquina/triagem/index.html
 
 ## Repositórios 
 https://github.com/search?q=novosga&type=repositories&p=6
+https://ezectech.com/tutorial/instalacao-painel-de-senha-novo-sga-2-0-8-passo-a-passo-no-windows-10/
 
 
 
