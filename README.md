@@ -1,3 +1,8 @@
+## Este Readme deve ser seguido no Ubuntu 22.04 server, desktop ou WSL
+
+as pastas neste projeto estão como um arquivo de backup 
+
+
 ### 1 - INSTALAR APACHE2
 
 sudo apt update
