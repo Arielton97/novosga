@@ -101,8 +101,11 @@ preêncha o segundo campo com a senha
 
 
 [Instalar o WSL | Microsoft Learn](https://learn.microsoft.com/pt-br/windows/wsl/install)
+
 [How to install Apache2 |Ubuntu](https://ubuntu.com/server/docs/how-to-install-apache2)
+
 [How to install and configure PHP | Ubuntu](https://ubuntu.com/server/docs/how-to-install-and-configure-php)
+
 [Install and configure a MySQL server | Ubuntu](https://ubuntu.com/server/docs/install-and-configure-a-mysql-server)
 
 
